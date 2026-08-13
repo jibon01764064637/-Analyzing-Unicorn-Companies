@@ -1,5 +1,6 @@
 
-## Unicorn Companies Data Analysis## Project Overview
+## Unicorn Companies Data Analysis
+
 This project focuses on analyzing historical data of "unicorn" companies—startups that have reached a valuation of $1 billion or more. Developed to assist an investment firm specializing in high-growth companies, this project extracts actionable market insights regarding industry valuations and the speed at which these dominant companies emerge.
 The findings aim to provide a competitive edge in recognizing market trends and optimizing strategic asset allocation.
 
